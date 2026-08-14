@@ -1,1 +1,6 @@
 .env
+
+/bot
+/allugpt
+/main
+*.exe
